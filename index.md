@@ -1,1 +1,1 @@
-http://blog.zzbajie.com
+迁移至 http://blog.zzbajie.com
